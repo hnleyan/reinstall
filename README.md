@@ -41,13 +41,13 @@
 国外：
 
 ```bash
-curl -O https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.sh
+curl -O https://raw.githubusercontent.com/hnleyan/reinstall/main/reinstall.sh
 ```
 
 国内：
 
 ```bash
-curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.sh
+curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/hnleyan/reinstall/main/reinstall.sh
 ```
 
 ## 下载（当前系统是 Windows）
@@ -59,13 +59,13 @@ curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/rein
 国外：
 
 ```batch
-certutil -urlcache -f -split https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://raw.githubusercontent.com/hnleyan/reinstall/main/reinstall.bat
 ```
 
 国内：
 
 ```batch
-certutil -urlcache -f -split https://mirror.ghproxy.com/https://raw.githubusercontent.com/wgetnz/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://mirror.ghproxy.com/https://raw.githubusercontent.com/hnleyan/reinstall/main/reinstall.bat
 ```
 
 ## 使用
