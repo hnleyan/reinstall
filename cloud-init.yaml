@@ -7,7 +7,7 @@ users:
   - name: root
     lock_passwd: true  # 将root用户的密码锁定
     ssh-authorized-keys:  # 添加SSH公钥
-      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBEMbxeShxjM96D1ORCjSN4adloe4uhMKPfljlDo9SoP max@Jking
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHIbA3FCdn+H4gndI6xvYaIaihYGvkPQgLZ+UuXxohUG
 chpasswd:
   expire: false
 runcmd:
